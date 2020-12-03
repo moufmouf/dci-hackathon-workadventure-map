@@ -37,10 +37,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ksta.de\/"
+                 "value":"https:\/\/docs.google.com\/document\/d\/1zuTzKvvQMyKw8rTMGF2pbtBOGg2_rwP5Biwyx03I5-g\/edit?usp=sharing"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
