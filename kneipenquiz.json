@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-h"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-h.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-g"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-g.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-f"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-f.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-e"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-e.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-d"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-d.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-c"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-c.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-b"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-b.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-team-a"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-a.html"
                 }],
          "type":"tilelayer",
          "visible":true,
