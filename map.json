@@ -253,7 +253,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-1"
+                 "value":"https:\/\/html-server.de\/dmn\/jitsi-1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
