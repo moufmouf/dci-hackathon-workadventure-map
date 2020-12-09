@@ -143,9 +143,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-7"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-7"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -161,9 +161,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-6"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-6"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -179,9 +179,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-5"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-5"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,9 +197,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-4"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-4"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -215,9 +215,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-3"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -233,9 +233,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-2"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -251,9 +251,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"workadventure-dumont-1"
+                 "value":"https:\/\/meet.jit.si\/workadventure-dumont-1"
                 }],
          "type":"tilelayer",
          "visible":true,
