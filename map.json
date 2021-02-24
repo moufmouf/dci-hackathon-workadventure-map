@@ -265,7 +265,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"hackathon"
+                 "value":"\/@\/dci\/dci_marketingfbw13\/hackathon"
                 }],
          "type":"tilelayer",
          "visible":true,

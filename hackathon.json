@@ -217,7 +217,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"party#start_kneipenquiz"
+                 "value":"\/@\/dci\/dci_marketingfbw13\/party#start_kneipenquiz"
                 }],
          "type":"tilelayer",
          "visible":true,
